@@ -12,6 +12,10 @@ public class GitSample {
        System.out.println("pushing");
 }
 
+public void method4() {
+       System.out.println("pushing");
+}
+
 	public static void main(String[] args) {
 		GitSample g = new GitSample();
 		g.method1();
